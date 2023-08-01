@@ -5,6 +5,7 @@
 }
 
 .menu-container {
+    display: flex;
     color: #fff;
     background-color: #5995da; /* Blue */
     padding: 20px 0;
