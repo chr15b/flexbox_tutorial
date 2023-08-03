@@ -79,7 +79,11 @@
 }
 
 .last-item {
-    order: -1;
+    order: 2;
+}
+
+.second-item {
+    order: 3;
 }
 
 .footer {
